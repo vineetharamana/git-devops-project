@@ -30,6 +30,4 @@ This project demonstrates Git and GitHub best practices for DevOps.
 5. Create a pull request.
 6. Merge approved changes.
 
-## Author
-Your Name
 
