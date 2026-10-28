@@ -1,0 +1,7 @@
+.env
+*.log
+*.tmp
+node_modules/
+.terraform/
+*.tfstate
+*.tfstate.*
